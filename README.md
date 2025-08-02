@@ -38,3 +38,41 @@ Train-Test Split
 Accuracy, Precision, Recall, F1-Score
 
 ROC Curve and AUC
+
+🧪 Evaluation Metrics
+Metric	Score
+Accuracy	⭐ 75.5% (Varied by random state)
+Precision	⚖️ Tuned to reduce false positives
+ROC-AUC	📈 Used to evaluate model's discriminatory power
+
+💾 Model Saving & Deployment Ready
+Model saved using:
+
+python
+Copy code
+import pickle
+with open("model.pkl", "wb") as file:
+    pickle.dump(model, file)
+This allows seamless integration into any backend or web app!
+
+📦 Future Scope
+✅ Integrate with real-time streaming APIs (Kafka, Spark)
+
+📉 Try advanced algorithms (XGBoost, Isolation Forest)
+
+🌍 Deploy as REST API using Flask or FastAPI
+
+✨ Highlights
+✅ Clean and well-documented Jupyter Notebook
+
+🧹 Proper preprocessing and scaling
+
+📈 Insightful EDA with plots
+
+🔒 Model saved for production
+
+🧑‍💻 Author
+Varun Kamate
+
+Feel free to ⭐ star the repo if you found it helpful!
+Pull requests and issues are welcome.
