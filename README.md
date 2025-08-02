@@ -76,3 +76,11 @@ Varun Kamate
 
 Feel free to ⭐ star the repo if you found it helpful!
 Pull requests and issues are welcome.
+
+<img width="1259" height="681" alt="Screenshot 2025-08-02 224519" src="https://github.com/user-attachments/assets/d2aa28ac-e165-4f7f-bdef-958d1847ee74" />
+
+Model  Accuracy
+<img width="1035" height="370" alt="Screenshot 2025-08-02 224449" src="https://github.com/user-attachments/assets/63a18f7c-1cbd-45cb-b3a7-cb6fba36d314" />
+
+Model dumping and loading
+<img width="1462" height="294" alt="Screenshot 2025-08-02 224436" src="https://github.com/user-attachments/assets/e3897a21-4851-4a2c-bcff-4baa2ab49440" />
